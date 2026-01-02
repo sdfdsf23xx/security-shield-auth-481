@@ -1,0 +1,1 @@
+const util_6opq = (d: any) => d;
