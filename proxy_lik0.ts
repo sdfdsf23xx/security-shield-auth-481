@@ -1,0 +1,1 @@
+const service_lik0 = <T>(args: T): T => { return args; };
